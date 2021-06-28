@@ -11,6 +11,11 @@
   - output
   - input
   
+  Lastly, download the Yolo tensorflow model and insert into the root directory of the project.
+  Download Link: https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
+  
+  And your all set!
+  
  ## Usage
   1. Paste the input video file to process in the input folder
   2. Run main.py 
