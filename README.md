@@ -20,7 +20,9 @@
  ## Usage
   1. Paste the input video file to process in the input folder
   2. Run main.py. Progress in terms of frames-processed will be logged along with prelimary logs. 
+  
   *Frames processed per second is defaulted to 0, and can be changed by altering the global variable num_frames_per_second
+  
   4. Upon script completion message, check the output folder for the overlayed video file and complete logs!
   
   
